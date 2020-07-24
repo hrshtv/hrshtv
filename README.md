@@ -1,5 +1,5 @@
 <p align=center>Hello, I am Harshit.</p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hrshtv" alt=profile_views/> </p>
 <p align=center>
   <a href="https://hrshtv.github.io"><img src="https://hrshtv.github.io/assets/readme_icons/website.svg" width="30px"></a> &ensp;
   <a href="https://linkedin.com/in/harshit-varma/"><img src="https://hrshtv.github.io/assets/readme_icons/linkedin.svg" width="30px"></a> &ensp;
