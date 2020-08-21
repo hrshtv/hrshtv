@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/hrshtvrm/"><img src="https://hrshtv.github.io/assets/readme_icons/instagram.svg" width="30px"></a>
   <br><br>
   -->
-  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=hrshtv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=hrshtv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true">
 <!--   <br><br>
   <img src=https://visitor-badge.glitch.me/badge?page_id=hrshtv.hrshtv> -->
 </p>
