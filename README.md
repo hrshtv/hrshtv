@@ -1,5 +1,5 @@
 <p align=center>Hello, I am Harshit.</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hrshtv" alt=profile_views/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hrshtv&style=flat-square&color=1fff6d" alt=profile_views/> </p>
 
 <p align=center>
   <!-- 
