@@ -1,4 +1,4 @@
-<p align=center>Hello, I am Harshit.</p>
+<!--p align=center>  </p-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrshtv&style=flat-square&color=fa8c00" alt=profile_views/> </p>
 
 <p align=center>
