@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  More coursework related repositories can be found <a href="https://github.com/scriptographers" target="_blank">here</a>.
+  More coursework related repositories can be found <a href="https://github.com/scriptographers" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
