@@ -12,5 +12,6 @@
 </p>
 
 <p align="center">
+  My website can be found <a href="https://hrshtv.github.io/">here</a>. <br>
   More coursework related repositories can be found <a href="https://github.com/scriptographers" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
